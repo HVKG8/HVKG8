@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Harsh 👋</h1>
 
-<!--
-**HVKG8/HVKG8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Final-year Computer Engineering student · Full-stack developer (MERN) · Building AI tools for students</b><br/>
+  <i>"code to crore" 🚀</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/College-Theem%20College%20of%20Engineering-4f46e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-Final%20Year-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-22c55e?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About me
+
+- 🎓 Final-year engineering student at **Theem College of Engineering**
+- 🌐 I build full-stack web apps with the **MERN stack**
+- 🤖 Currently working on **ExamPrep AI**, an AI exam-prep platform for engineering students
+- ☕ I also write **Java** with **MySQL** (my Bank Management System)
+- 📚 Always learning: next on my list is RAG and deploying bigger projects
+- 🎯 Looking for **internship / entry-level developer** opportunities
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+### 🎓 [ExamPrep AI](https://github.com/HVKG8/exam-prep-platform)
+AI-powered exam preparation platform for engineering students.
+- Marks-aware AI answers (2 / 5 / 10 marks) with diagrams and streaming
+- Study material library, viva prep with voice, Google sign-in
+- **Stack:** React, Node.js, Express, MongoDB, Gemini API
+- 🔗 [Live demo](https://examprep-ai-kappa.vercel.app) · [Source code](https://github.com/HVKG8/exam-prep-platform)
+
+### 🏦 [Bank Management System](https://github.com/HVKG8/Bank-Management-System)
+Desktop banking application built with Java Swing and MySQL.
+- **Stack:** Java, Swing, MySQL
+
+---
+
+## 🌱 Currently
+
+- 🔭 Improving ExamPrep AI (admin panel and smarter answers)
+- 🧠 Learning: system design, RAG, and cleaner backend architecture
+- 💬 Ask me about: MERN, deploying apps, building with the Gemini API
+
+---
+
+## 📫 Let's connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-HVKG8-181717?style=for-the-badge&logo=github)](https://github.com/HVKG8)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvkg1251972@gmail.com)
+
+<p align="center"><i>⭐ If you like my work, drop a star on a repo. Thanks for visiting!</i></p>
