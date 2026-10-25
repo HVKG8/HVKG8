@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Harsh 👋</h1>
+<p align="center">
+  <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Harsh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Full-stack+Developer+(MERN);Building+AI+tools+for+students;Final-year+Computer+Engineering+student;Code+to+Crore+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <b>Final-year Computer Engineering student · Full-stack developer (MERN) · Building AI tools for students</b><br/>
