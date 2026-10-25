@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <b>Final-year Computer Engineering student · Full-stack developer (MERN) · Building AI tools for students</b><br/>
   <i>"code to crore" 🚀</i>
 </p>
 
@@ -21,7 +20,7 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 Final-year engineering student at **Theem College of Engineering**
+- 🎓 Final-year Computer Engineering student at **Theem College of Engineering**
 - 🌐 I build full-stack web apps with the **MERN stack**
 - 🤖 Currently working on **ExamPrep AI**, an AI exam-prep platform for engineering students
 - ☕ I also write **Java** with **MySQL** (my Bank Management System)
@@ -63,8 +62,8 @@
 
 ### 🎓 [ExamPrep AI](https://github.com/HVKG8/exam-prep-platform)
 AI-powered exam preparation platform for engineering students.
-- Marks-aware AI answers (2 / 5 / 10 marks) with diagrams and streaming
-- Study material library, viva prep with voice, Google sign-in
+- Marks-aware AI answers (2 / 5 / 10 marks) with diagrams and live streaming
+- Study material library, voice viva practice, Google sign-in
 - **Stack:** React, Node.js, Express, MongoDB, Gemini API
 - 🔗 [Live demo](https://examprep-ai-kappa.vercel.app) · [Source code](https://github.com/HVKG8/exam-prep-platform)
 
@@ -73,6 +72,17 @@ Desktop banking application built with Java Swing and MySQL.
 - **Stack:** Java, Swing, MySQL
 
 ---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HVKG8&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&include_all_commits=true" />
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVKG8&layout=donut&theme=tokyonight&border_radius=12" />
+</p>
+
+<p align="center">
+  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=HVKG8&theme=tokyonight&border_radius=12" />
+</p>
 
 ### 🐍 Contribution snake
 
@@ -93,30 +103,14 @@ Desktop banking application built with Java Swing and MySQL.
 - 💬 Ask me about: MERN, deploying apps, building with the Gemini API
 
 ---
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HVKG8&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&include_all_commits=true" />
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVKG8&layout=donut&theme=tokyonight&border_radius=12" />
-</p>
-
-<p align="center">
-  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=HVKG8&theme=tokyonight&border_radius=12" />
-</p>
-
----
-
----
-
-- 🔭 Improving ExamPrep AI (admin panel and smarter answers)
-- 🧠 Learning: system design, RAG, and cleaner backend architecture
-- 💬 Ask me about: MERN, deploying apps, building with the Gemini API
-
----
 
 ## 📫 Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-HVKG8-181717?style=for-the-badge&logo=github)](https://github.com/HVKG8)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvkg1251972@gmail.com)
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=HVKG8&label=Profile+views&color=6366f1&style=for-the-badge" />
+</p>
 
 <p align="center"><i>⭐ If you like my work, drop a star on a repo. Thanks for visiting!</i></p>
