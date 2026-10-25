@@ -82,6 +82,11 @@ Desktop banking application built with Java Swing and MySQL.
 
 ## 🌱 Currently
 
+- 🔭 Improving ExamPrep AI (admin panel and smarter answers)
+- 🧠 Learning: system design, RAG, and cleaner backend architecture
+- 💬 Ask me about: MERN, deploying apps, building with the Gemini API
+
+---
 ## 📊 GitHub stats
 
 <p align="center">
