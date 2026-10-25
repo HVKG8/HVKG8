@@ -73,13 +73,27 @@ Desktop banking application built with Java Swing and MySQL.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" alt="HVKG8 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HVKG8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVKG8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HVKG8&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&include_all_commits=true" />
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVKG8&layout=donut&theme=tokyonight&border_radius=12" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=HVKG8&theme=tokyonight&hide_border=true" />
+  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=HVKG8&theme=tokyonight&border_radius=12" />
 </p>
+
+### 📈 Contribution activity
+
+<p align="center">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=HVKG8&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=HVKG8&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
 
 ---
 
