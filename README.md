@@ -70,6 +70,19 @@ Desktop banking application built with Java Swing and MySQL.
 
 ## 🌱 Currently
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" alt="HVKG8 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HVKG8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVKG8&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=HVKG8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 - 🔭 Improving ExamPrep AI (admin panel and smarter answers)
 - 🧠 Learning: system design, RAG, and cleaner backend architecture
 - 💬 Ask me about: MERN, deploying apps, building with the Gemini API
